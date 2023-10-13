@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.bost</groupId>
-    <artifactId>bost-futures-usdt-sdk</artifactId>
+    <artifactId>bost-futures-usdt-client</artifactId>
     <version>1.0.0</version>
     <build>
         <plugins>
